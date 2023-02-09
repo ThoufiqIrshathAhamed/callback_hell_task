@@ -21,7 +21,7 @@ setTimeout(()=>{
                                   setTimeout(()=>{
                                       timer.innerText="1";
                                       setTimeout(()=>{
-                                          timer.innerText="HAPPY NEW YEAR!!!"
+                                          timer.innerText="HAPPY INDEPENDENCE DAY!!!"
                                       },1000)
                                   },1000)
                               },1000)
